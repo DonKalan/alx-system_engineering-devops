@@ -1,2 +1,2 @@
 #!/bin/bash
-ld -Gn $(whoami)
+id -Gn $(whoami)
